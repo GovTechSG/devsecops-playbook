@@ -33,7 +33,7 @@ A full SAST scan must be performed on the repositories whenever code is merged i
 **SAST Triage**
 
 - **Scan Review:** After the scan, the developers and the Application Security Engineer should review the scan results. If there are any false positives in the scan results, the developers should justify why it is a false positive. The Application Security Engineer will make the decision on whether the error can be suppressed and mark it as a false positive.
-- **Mitigation:** Minimally, the high and critical issues flagged in the scan results should be mitigated as soon as possible (ideally within the sprint itself). Issues flagged as low or medium can be resolved subsequently when there is available time (See [IM8](https://intranet.mof.gov.sg/portal/IM/Themes/IT-Management/Security/Topics/Application-Development-Security.aspx)(5.1/S3) for timeframe for vulnerability management). In the meantime, risk assessment can be performed for the low and medium risks until they are fixed.
+- **Mitigation:** Minimally, the high and critical issues flagged in the scan results should be mitigated as soon as possible (ideally within the sprint itself). Issues flagged as low or medium can be resolved subsequently when there is available time (Using your COMET or GSIB device, refer to [IM8](https://intranet.mof.gov.sg/portal/IM/Themes/IT-Management/Cloud.aspx)(5.1/S3) or information on the timeframe to resolve vulnerabilities. In the meantime, risk assessment can be performed for the low and medium risks until they are fixed.
 - **Technical Debt:** Because the low and medium severity issues are not resolved immediately, do ensure that time is allocated in the subsequent sprints to address and mitigate the remaining issues.
 
 
@@ -49,7 +49,7 @@ Software Composition Analysis (SCA) scans your application on third-party or ope
 
 Sometimes, there are vulnerabilities in the SAST or SCA scan that cannot be fixed immediately. For example, a third-party library in SCA scan does not have the fix yet, and hence the team is unable to update the library version.
 
-In such scenarios, the team should perform a risk assessment. The risk should be added into a risk register and the relevant authorities such as the agency should approve and accept the risk. One example of risk acceptance is when the vulnerability in the library lies in a section of the library that is not being actively used by the application, hence it would not impact the application. Public officers can refer to the [IM8 Risk Management](https://intranet.mof.gov.sg/portal/IM/Themes/IT-Management/Set-policies,-standards-and-guidelines-for-ICT-man/Topic/Risk-Management.aspx) in the intranet site for more information and to access the risk register template.
+In such scenarios, the team should perform a risk assessment. The risk should be added into a risk register and the relevant authorities such as the agency should approve and accept the risk. One example of risk acceptance is when the vulnerability in the library lies in a section of the library that is not being actively used by the application, hence it would not impact the application. For more information and to access the risk register template, public officers can refer to the [IM8 Risk Management](https://intranet.mof.gov.sg/portal/IM/Themes/IT-Management/Cloud.aspx) using their GSIB or COMET device.
 
 ### Digital Signature [#8.1/G11, G12]
 

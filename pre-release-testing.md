@@ -67,7 +67,7 @@ Security testing uncovers vulnerabilities, threats and risks in an application a
 
 #### Penetration testing [#4.1/S1 - S8]
 
-Agencies are required to conduct penetration tests for new and existing systems. Public officers can refer to the [IM8](https://intranet.mof.gov.sg/portal/IM/Themes/IT-Management/Security/Topics/Application-Development-Security.aspx) domain on Application Development Security (Standards Clauses following Policy Clause 4.1) for the guidelines, scope and frequency on performing penetration testing.
+Agencies are required to conduct penetration tests for new and existing systems. Public officers can use GSIB or COMET device to refer to the [IM8](https://intranet.mof.gov.sg/portal/IM/Themes/IT-Management/Cloud.aspx) domain on Application Development Security (Standards Clauses following Policy Clause 4.1) for the guidelines, scope and frequency on performing penetration testing.
 
 ### Functional Regression Testing[#9.1/S2]
 
