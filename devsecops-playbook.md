@@ -44,4 +44,6 @@ You can see how DevSecOps sub-domains map with the DevSecOps maturity model. For
 
 **Note:** There are some hyperlinks to the intranet, and these are meant only for Singapore Government Public Officers.
 
-Now that you have seen the base concepts, let&#39;s look at how this playbook is structured. The chapters are directly aligned with the [IM8 DevSecOps policy](https://intranet.mof.gov.sg/portal/IM/Themes/IT-Management/Security/Topics/Application-Development-Security.aspx) under Application Development Security and offers practical recommendations on how to adopt the policy from clause 6.1 -10.1. We will be indicating the clauses relevant to that section [# Clause Reference number]
+Now that you have seen the base concepts, let&#39;s look at how this playbook is structured. The chapters are directly aligned with the [IM8 DevSecOps policy](https://intranet.mof.gov.sg/portal/IM/Themes/IT-Management/Cloud.aspx) under Application Development Security and offers practical recommendations on how to adopt the policy from clause 6.1 -10.1.
+
+> Use GSIB or COMET device to refer to the **IM8 DevSecOps policy**.
